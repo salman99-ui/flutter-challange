@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "324626768510",
+    "project_id": "login-app-a9375",
+    "storage_bucket": "login-app-a9375.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324626768510:android:b8e6fb7d5d7a18da46ee2f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_movie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324626768510-asjfgqjnhqg8o7e3402s6nebv49uedav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwlQJHumPYabCWmHiXSWH2iAfTngwT6zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324626768510-asjfgqjnhqg8o7e3402s6nebv49uedav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
